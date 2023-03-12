@@ -1,0 +1,18 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "Todo List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DeepakCoder",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.0"
+  }
+}

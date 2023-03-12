@@ -1,0 +1,14 @@
+
+#containerButton{
+    width: 50%;
+    margin: auto;
+}
+#containerButtonDiv{
+    display: flex;
+    justify-content: center;
+}
+
+#ViewDiv{
+    display: flex;
+    justify-content: space-between;
+}
